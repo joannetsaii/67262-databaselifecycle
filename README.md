@@ -1,4 +1,4 @@
-# 67262-databaselifecycle
+# The Database Lifecycle
 Final Database Design and Development Project: Re-engineering the early stage of Doordash database
 
 #### What's Included in `phase2.pdf`
